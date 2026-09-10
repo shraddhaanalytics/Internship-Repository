@@ -1,0 +1,4 @@
+Model,Precision (fraud),Recall (fraud),F1 (fraud),ROC-AUC
+Decision Tree,0.195,0.833,0.316,0.935
+Random Forest,0.65,0.867,0.743,0.997
+KNN,0.244,0.633,0.352,0.851
