@@ -1,0 +1,111 @@
+skill,category,aliases
+Python,Programming,"python3, py, python 3"
+Java,Programming,"java8, java 8, jdk"
+C++,Programming,"cpp, c plus plus"
+C#,Programming,"csharp, c sharp"
+C,Programming,"c language, c programming"
+JavaScript,Programming,"js, javascript es6, ecmascript"
+TypeScript,Programming,ts
+R,Programming,"r language, r programming"
+Scala,Programming,
+Go,Programming,golang
+Rust,Programming,
+PHP,Programming,
+Ruby,Programming,
+Swift,Programming,
+Kotlin,Programming,
+MATLAB,Programming,matlab r
+Shell Scripting,Programming,"bash, shell script, bash scripting"
+VBA,Programming,visual basic for applications
+SQL,Database,"sql, structured query language"
+MySQL,Database,my sql
+PostgreSQL,Database,"postgres, postgresql, postgre sql"
+MongoDB,Database,"mongo, mongo db"
+Oracle DB,Database,"oracle database, oracle sql"
+SQLite,Database,sqlite3
+Microsoft SQL Server,Database,"mssql, ms sql server, sql server, t-sql, tsql"
+Cassandra,Database,apache cassandra
+Redis,Database,
+DynamoDB,Database,"dynamo db, aws dynamodb"
+Snowflake,Database,
+BigQuery,Database,"google bigquery, gbq"
+Redshift,Database,aws redshift
+Neo4j,Database,"graph db, neo4j graph database"
+Elasticsearch,Database,"elastic search, es"
+Power BI,Data Analytics,"powerbi, power-bi, ms power bi, microsoft power bi"
+Tableau,Data Analytics,"tableau desktop, tableau server"
+Excel,Data Analytics,"ms excel, microsoft excel, msexcel, excel vba"
+Google Sheets,Data Analytics,"gsheets, google spreadsheet"
+Looker,Data Analytics,"looker studio, google data studio"
+QlikView,Data Analytics,"qlik, qlik view, qlik sense"
+SAS,Data Analytics,"sas programming, sas base"
+SPSS,Data Analytics,ibm spss
+Alteryx,Data Analytics,
+Data Visualization,Data Analytics,"data viz, dataviz"
+Data Analysis,Data Analytics,data analytics
+Machine Learning,Machine Learning,"ml, machine-learning"
+Deep Learning,Machine Learning,"dl, deep-learning"
+Scikit-learn,Machine Learning,"sklearn, scikit learn, scikit-learn"
+TensorFlow,Machine Learning,"tensor flow, tf, tensorflow2"
+PyTorch,Machine Learning,"py torch, torch"
+Keras,Machine Learning,
+XGBoost,Machine Learning,"xg boost, extreme gradient boosting"
+LightGBM,Machine Learning,light gbm
+NLP,Machine Learning,natural language processing
+Computer Vision,Machine Learning,"cv, opencv, open cv"
+Generative AI,Machine Learning,"genai, gen ai, generative artificial intelligence"
+LLM,Machine Learning,"large language models, llms"
+Neural Networks,Machine Learning,"neural network, ann, artificial neural networks"
+Reinforcement Learning,Machine Learning,rl
+MLOps,Machine Learning,"ml ops, ml operations"
+Pandas,Data Engineering,"pandas library, pd"
+NumPy,Data Engineering,"numpy library, np"
+Spark,Data Engineering,"apache spark, pyspark, spark sql"
+Hadoop,Data Engineering,"apache hadoop, hdfs"
+Kafka,Data Engineering,apache kafka
+Airflow,Data Engineering,apache airflow
+ETL,Data Engineering,"etl pipelines, extract transform load"
+Data Warehousing,Data Engineering,"data warehouse, dwh"
+Databricks,Data Engineering,
+Hive,Data Engineering,apache hive
+NiFi,Data Engineering,apache nifi
+AWS,Cloud,"amazon web services, amazon aws"
+Azure,Cloud,"microsoft azure, ms azure"
+GCP,Cloud,"google cloud platform, google cloud"
+IBM Cloud,Cloud,ibm cloud platform
+Oracle Cloud,Cloud,"oci, oracle cloud infrastructure"
+Docker,DevOps,"docker container, containerization"
+Kubernetes,DevOps,"k8s, kube"
+Git,DevOps,git version control
+GitHub,DevOps,git hub
+GitLab,DevOps,git lab
+Jenkins,DevOps,
+CI/CD,DevOps,"ci cd, continuous integration continuous deployment"
+Terraform,DevOps,
+Ansible,DevOps,
+Linux,DevOps,"unix, linux administration"
+Jira,DevOps,atlassian jira
+HTML,Web Development,html5
+CSS,Web Development,css3
+React,Web Development,"reactjs, react.js"
+Angular,Web Development,"angularjs, angular.js"
+Vue.js,Web Development,"vuejs, vue"
+Node.js,Web Development,"nodejs, node"
+Django,Web Development,
+Flask,Web Development,
+REST API,Web Development,"restful api, rest apis"
+Spring Boot,Web Development,"springboot, spring-boot"
+Figma,Design,
+Adobe Creative Suite,Design,"adobe, adobe cc, adobe creative cloud"
+Google Analytics,Marketing,"ga, google analytics 4, ga4"
+SEO,Marketing,search engine optimization
+HubSpot,Marketing,hub spot
+Communication,Soft Skills,"communication skills, verbal communication"
+Leadership,Soft Skills,"team leadership, leading teams"
+Problem Solving,Soft Skills,"problem-solving, analytical thinking"
+Teamwork,Soft Skills,"team player, collaboration"
+Project Management,Soft Skills,"project mgmt, pm"
+Agile,Soft Skills,"agile methodology, scrum"
+Time Management,Soft Skills,
+Critical Thinking,Soft Skills,
+Stakeholder Management,Soft Skills,stakeholder mgmt

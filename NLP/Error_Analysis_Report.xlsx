@@ -1,0 +1,11 @@
+Text,Actual,Predicted,Error
+Experience with cloud technologies,None / AWS,cloud technologies,Unknown Skill / Overgeneralization
+Proficient in Python 3 programming,Python,Python 3,Partial Entity
+Knowledge of Machine Learning algorithms,Machine Learning,ML,Synonym Problem
+AWS Cloud deployment experience,AWS,AWS Cloud,Partial Entity
+Familiar with Postgres and MS SQL,"PostgreSQL, SQL",MS SQL,False Negative
+Expert in Java and Spring Boot framework,"Java, Spring Boot","Java, Spring Boot, Spring Boot framework",Duplicate Skill
+Strong skills in PowerBI dashboarding,Power BI,PowerBI,Spelling Problem
+Experience in full-stack development,Full-Stack,development,Wrong Entity
+Worked on Kubernetes clusters,Kubernetes,Kubernetes clusters,Partial Entity
+Hands-on experience with Scikit Learn,scikit-learn,Scikit Learn,Spelling Problem

@@ -1,0 +1,7 @@
+Method,Precision,Recall,F1,Accuracy
+Dictionary,0.6347,1.0,0.7765,0.9654
+Regex,1.0,1.0,1.0,1.0
+TF-IDF,1.0,0.9759,0.9878,0.9986
+NER,0.9532,1.0,0.9761,0.9971
+ML Model,0.9626,1.0,0.9809,0.9977
+Transformer,1.0,1.0,1.0,1.0
